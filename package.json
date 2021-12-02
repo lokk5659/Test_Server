@@ -1,0 +1,19 @@
+{
+  "name": "iis_test",
+  "version": "1.0.0",
+  "description": "deploying node into IIS Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokk5659/Node.js_Test_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokk5659/Node.js_Test_Server/issues"
+  },
+  "homepage": "https://github.com/lokk5659/Node.js_Test_Server#readme"
+}
